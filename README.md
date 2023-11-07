@@ -1,0 +1,1 @@
+ScanditDataCaptureLabelText implements the barcode semantic capabilities of the Scandit Data Capture SDK.
