@@ -1,6 +1,6 @@
 {
   "name": "scandit-react-native-datacapture-label-text",
-  "version": "6.20.2",
+  "version": "6.21.1",
   "description": "Scandit Data Capture SDK for React Native",
   "homepage": "https://github.com/Scandit/scandit-react-native-datacapture-label-text",
   "main": "index.js",
